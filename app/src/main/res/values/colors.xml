@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="skipButtonColor">#88c3dffb</color>
+    <color name="colorBlue">#3AACF3</color>
+    <color name="Gray">#DDDFE2</color>
+    <color name="transparent">#00FFFFFF</color>
+
+
+
+</resources>
